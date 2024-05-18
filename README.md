@@ -48,25 +48,25 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@KaptainSinbad/" target="_blank">
+  <a target="_blank" href="https://www.youtube.com/@KaptainSinbad/">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rishabh-lonewolf/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/rishabh-lonewolf/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/21807528/rishabh-shukla" target="_blank">
+  <a target="_blank" href="https://stackoverflow.com/users/21807528/rishabh-shukla">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="shuklarishabh618@gmail.com" target="_blank">
+  <a target="_blank" href="shuklarishabh618@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/rishark__/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/rishark__/" >
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discordapp.com/users/llawliet0694" target="_blank">
+  <a target="_blank" href="https://discordapp.com/users/llawliet0694" >
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="t.me/everthing_is_temporary_21" target="_blank">
+  <a target="_blank" href="https://t.me/everthing_is_temporary_21">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
